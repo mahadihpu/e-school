@@ -17,6 +17,14 @@
 .text-highlight{
     color:#21B573;
 }
+.sign-button{
+    align-items: center;
+    padding: 10px 25px !important;
+    background-color: #21B573;
+    border: none;
+    border-radius: 33px;
+    color: #F0FFF0!important; 
+}
 .button{
     align-items: center;
     padding: 10px 25px !important;
